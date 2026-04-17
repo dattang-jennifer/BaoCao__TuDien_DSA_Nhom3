@@ -28,3 +28,149 @@ along=dọc theo
 already=đã
 also=cũng
 always=luôn luôn
+apple=quả táo
+air=không khí
+animal=động vật
+area=khu vực
+answer=câu trả lời
+
+book=quyển sách
+bread=bánh mì
+bike=xe đạp
+bird=con chim
+bag=cái túi
+
+cat=con mèo
+car=xe hơi
+city=thành phố
+computer=máy tính
+cup=cái cốc
+
+dog=con chó
+door=cửa
+desk=bàn học
+day=ngày
+doctor=bác sĩ
+
+egg=trứng
+ear=tai
+earth=trái đất
+eye=mắt
+engine=động cơ
+
+fish=con cá
+food=thức ăn
+friend=bạn bè
+family=gia đình
+flower=bông hoa
+
+go=đi
+girl=con gái
+garden=vườn
+game=trò chơi
+group=nhóm
+
+house=ngôi nhà
+hand=bàn tay
+heart=trái tim
+horse=ngựa
+hospital=bệnh viện
+
+ice=đá
+idea=ý tưởng
+iron=bàn ủi
+island=hòn đảo
+item=vật phẩm
+
+job=công việc
+juice=nước ép
+jacket=áo khoác
+jar=cái lọ
+journey=hành trình
+
+key=chìa khóa
+king=vua
+kite=diều
+kitchen=nhà bếp
+knowledge=kiến thức
+
+lion=sư tử
+love=tình yêu
+light=ánh sáng
+lake=hồ
+language=ngôn ngữ
+
+man=đàn ông
+mother=mẹ
+money=tiền
+milk=sữa
+market=chợ
+
+name=tên
+nose=mũi
+night=ban đêm
+number=số
+news=tin tức
+
+orange=quả cam
+office=văn phòng
+oil=dầu
+ocean=đại dương
+order=đơn hàng
+
+pen=cây bút
+paper=giấy
+phone=điện thoại
+park=công viên
+picture=bức ảnh
+
+queen=nữ hoàng
+question=câu hỏi
+quick=nhanh
+quiet=yên tĩnh
+
+red=màu đỏ
+road=con đường
+room=căn phòng
+river=con sông
+result=kết quả
+
+sun=mặt trời
+school=trường học
+student=học sinh
+star=ngôi sao
+system=hệ thống
+
+table=cái bàn
+teacher=giáo viên
+time=thời gian
+tree=cây
+travel=du lịch
+
+umbrella=cái ô
+uncle=chú
+use=sử dụng
+unit=đơn vị
+
+van=xe tải nhỏ
+village=làng
+voice=giọng nói
+value=giá trị
+
+water=nước
+window=cửa sổ
+world=thế giới
+word=từ
+work=công việc
+
+x-ray=tia X
+xylophone=đàn mộc cầm
+
+yellow=màu vàng
+year=năm
+young=trẻ
+yard=sân
+
+zoo=sở thú
+zero=số 0
+zone=khu vực
